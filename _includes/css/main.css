@@ -69,6 +69,28 @@ hr.star-primary:after {
     font-size: 2em;
 }
 
+hr.contact-light,
+hr.contact-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+    overflow: visible;
+}
+
+hr.contact-light:after,
+hr.contact-primary:after {
+    content: "\f0e0";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
 hr.light-without-icon:after,
 hr.primary-without-icon:after {
     display: inline-block;
