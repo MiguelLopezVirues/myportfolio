@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Miguel López Virués
+email: miguel.lopezvirues@gmail.com
+# url: https://github.com/jeromelachaud/freelancer-theme
+description: "Hi! I'm Miguel, it's great to meet you! This a portfolio website that I just recently created to share some of the personal projects I have been working on. With time, you'll be able to find projects about Data Science in general here: Machine Learning, visualization, statistics, web scraping, etc. In case you'd like to offer me a collaboration of a project to work on together, contact me on the form below or feel free to send me an email!"
+keywords: "Machine learning, Python, Pandas, Numpy, Scikit-learn, SQL, Azure Machine Learning"
+skills: "Data Science - Data Analyst - Python"
+meta_author: Lopez Virues Miguel
 
 # Google webmaster tools
 google_verify:
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Miguel López Virués
+  location: Spain
   social: Around the Web
   credits: Credits
 
@@ -46,11 +46,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
+  - line: Tomares
   - line: Sevilla, CP 41001
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This is a portfolio page based on Jekyll and Bootstrap.'
 
 # Build settings
 markdown: kramdown
