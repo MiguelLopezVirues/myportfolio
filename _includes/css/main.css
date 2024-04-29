@@ -26,7 +26,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.link_hover }};
     
 }
 
@@ -136,7 +136,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #{{ site.color.text1 }};
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.header_section }};
 }
 
 header .container {
@@ -535,7 +535,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.navbar }} !important;
+    background-color: #{{ site.color.link_hover }} !important;
 }
 
 /* Fix modal mouse wheel issues */

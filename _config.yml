@@ -25,16 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  navibar: 2c3e50 #
+  navibar: 233140 #
   header_section: 2c3e50 #
   portfolio_section: FCFBFF #
   about_section: #
   contactsec: FCFBFF 
   footer_high: #
   footer_low: #
-  primary: 2c3e50 #have my doubts but seems it cannot be changed either
+  link_hover: 1a242f
+  primary: 233140 ## navbar
   primary-rgb:  "80, 62, 44"  #
-  secondary:  000035 # #real navbar, can't be changed otherwise
+  secondary:  2c3e50 # #1a242f
   secondary-dark:  233140 #
   text1: FCFBFF #
   text2: 2c3e50 #
