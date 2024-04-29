@@ -34,7 +34,7 @@ color:
   footer_low: #
   primary: 2c3e50 ## navbar
   primary-rgb:  "80, 62, 44"  #
-  secondary:  233140 #
+  secondary:  1a242f # #1a242f
   secondary-dark:  233140 #
   text1: FCFBFF #
   text2: 2c3e50 #
