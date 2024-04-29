@@ -16,13 +16,18 @@ p.small {
     font-size: 16px;
 }
 
-a,
+a {
+    outline: 0;
+    color: #{{ site.color.primary }}
+}
+
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary-dark }};
+    
 }
 
 h1,
@@ -525,7 +530,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 /* Fix modal mouse wheel issues */
