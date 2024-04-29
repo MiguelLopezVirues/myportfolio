@@ -96,6 +96,10 @@ hr.contact-primary:after {
     font-size: 2em;
 }
 
+hr.contact-primary:after {
+    background-color: #{{ site.color.contactsec }};
+}
+
 hr.light-without-icon:after,
 hr.primary-without-icon:after {
     display: inline-block;
@@ -104,6 +108,7 @@ hr.primary-without-icon:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+    background-color: #fff;
 }
 
 hr.star-light {
@@ -530,7 +535,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.navbar }} !important;
 }
 
 /* Fix modal mouse wheel issues */
