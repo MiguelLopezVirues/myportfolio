@@ -25,16 +25,16 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  navbar: 233140 #
+  navibar: 233140 #
   header_section: 2c3e50 #
   portfolio_section: FCFBFF #
   about_section: #
   contactsec: FCFBFF 
   footer_high: #
   footer_low: #
-  primary: 233140 ## navbar
+  primary: 2c3e50 ## navbar
   primary-rgb:  "80, 62, 44"  #
-  secondary:  2c3e50 #
+  secondary:  233140 #
   secondary-dark:  233140 #
   text1: FCFBFF #
   text2: 2c3e50 #
