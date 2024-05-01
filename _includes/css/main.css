@@ -22,7 +22,7 @@ p.small {
 
 a {
     outline: 0;
-    color: #{{ site.color.link_hover }} #links
+    color: #{{ site.color.link_hover_site }} #links
 }
 
 a:hover,
@@ -30,7 +30,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.link_hover }}; #links
+    color: #{{ site.color.link_hover_site }}; #links
     
 }
 
@@ -482,7 +482,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.link_hover }};
+    color: #{{ site.color.link_hover_site }};
 }
 
 form .row:first-child .floating-label-form-group {
