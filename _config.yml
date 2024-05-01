@@ -1,6 +1,7 @@
 # Site settings
 title: Miguel López Virués
 email: miguel.lopezvirues@gmail.com
+formspree_API: mwkgybok
 # url: https://github.com/jeromelachaud/freelancer-theme
 description: "Hi! I'm Miguel, it's great to meet you! This a portfolio website that I just recently created to share some of the personal projects I have been working on. With time, you'll be able to find projects about Data Science in general here: Machine Learning, visualization, statistics, web scraping, etc. In case you'd like to offer me a collaboration of a project to work on together, contact me on the form below or feel free to send me an email!"
 keywords: "Machine learning, Python, Pandas, Numpy, Scikit-learn, SQL, Azure Machine Learning"
@@ -30,8 +31,6 @@ color:
   portfolio_section: FCFBFF #
   about-section: 2c3e50 #
   contactsec: FCFBFF 
-  footer_high: #
-  footer_low: #
   link_hover: 7B838C #
   link_hover_site: 415161 #
   active_: 1a242f #
