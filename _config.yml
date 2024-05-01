@@ -28,14 +28,14 @@ color:
   navibar: 233140 #
   header_section: 2c3e50 #
   portfolio_section: FCFBFF #
-  about_section: #
+  about-section: 2c3e50 #
   contactsec: FCFBFF 
   footer_high: #
   footer_low: #
   link_hover: 1a242f
   primary: 233140 ## navbar
   primary-rgb:  "80, 62, 44"  #
-  secondary:  2c3e50 # #1a242f
+  secondary:  2c3e50 # about section
   secondary-dark:  233140 #
   text1: FCFBFF #
   text2: 2c3e50 #
