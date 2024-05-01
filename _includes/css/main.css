@@ -352,6 +352,8 @@ section.success {
     transition: all ease .5s;
 }
 
+
+
 #portfolio .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }

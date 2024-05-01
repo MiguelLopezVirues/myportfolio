@@ -35,7 +35,7 @@ color:
   link_hover: 7B838C #
   active_: 1a242f #
   primary: 233140 ## navbar
-  primary-rgb:  "80, 62, 44"  #
+  primary-rgb:  "65,81,97"  #
   secondary:  2c3e50 # about section
   secondary-dark:  233140 #
   text1: FCFBFF #
