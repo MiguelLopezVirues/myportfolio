@@ -62,7 +62,7 @@ hr.star-primary {
     border-top: solid 5px;
     text-align: center;
     overflow: visible;
-    font-size: 2.5rem;
+    font-size: 4rem;
 }
 
 hr.about-light,
@@ -71,7 +71,7 @@ hr.about-primary {
     padding: 0;
     max-width: 250px;
     border: 0;
-    border-top: solid 5px;
+    border-top: solid 4.5px;
     text-align: center;
     overflow: visible;
 
@@ -123,7 +123,7 @@ hr.contact-primary {
     border-top: solid 5px;
     text-align: center;
     overflow: visible;
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 hr.contact-light:after,
@@ -134,7 +134,7 @@ hr.contact-primary:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 hr.contact-primary:after {
