@@ -76,7 +76,7 @@ hr.about-primary:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2rem;
+    font-size: 2.5rem;
     background-color: #{{ site.color.header_section }};
 }
 
@@ -102,7 +102,7 @@ hr.star-primary:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 hr.contact-light,
@@ -124,7 +124,7 @@ hr.contact-primary:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 hr.contact-primary:after {
@@ -138,7 +138,7 @@ hr.primary-without-icon:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2rem;
+    font-size: 2.5rem;
     background-color: #fff;
 }
 
@@ -193,12 +193,12 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2rem;
+    font-size: 2.8rem;
     font-weight: 700;
 }
 
 header .intro-text .skills {
-    font-size: 1.25rem;
+    font-size: 1.8rem;
     font-weight: 300;
 }
 
@@ -214,6 +214,14 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+    }
+
+    p {
+        font-size: 1.4rem;
+    }
+    
+    p.small {
+        font-size: 1.2rem;
     }
 }
 
